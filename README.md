@@ -7,6 +7,6 @@ My name is Elis Fernanda. I was born in Brazil(:brazil:) but currently I'm livin
 
 Would you like to Hire me?
 
-:information_desk_person: [Linkedin](www.linkedin.com/in/elisfernanda)
+:information_desk_person:  [![](https://img.shields.io/badge/Linkedin-blue)](www.linkedin.com/in/elisfernanda)
 
 
