@@ -5,7 +5,7 @@ My name is Elis Fernanda. I was born in Brazil(:brazil:) but currently I'm livin
 - 🌱 Also I'm learning ReactJS and Redux. I'm doing a bootcamp by online [RSSchool](https://rs.school/poland/) :mortar_board:. 
 - 👯 I’m looking for collaborating on open source and projects.
 
-Would you like to contract me?
+Would you like to Hire me?
 
 :information_desk_person: [Linkedin](www.linkedin.com/in/elisfernanda)
 
